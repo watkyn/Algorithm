@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59AD52A220B75A2700DFC9D8 /* SortTheStuff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59AD52A120B75A2700DFC9D8 /* SortTheStuff.swift */; };
 		65744CA71C554BA50011C977 /* Algorithm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65744C9C1C554BA50011C977 /* Algorithm.framework */; };
 		65744CBA1C554DDC0011C977 /* Algorithm.h in Headers */ = {isa = PBXBuildFile; fileRef = 65744CB81C554DDC0011C977 /* Algorithm.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		65744CD01C554E380011C977 /* Algorithm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65744CC61C554E370011C977 /* Algorithm.framework */; };
@@ -111,6 +112,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		59AD52A120B75A2700DFC9D8 /* SortTheStuff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortTheStuff.swift; sourceTree = "<group>"; };
 		65744C9C1C554BA50011C977 /* Algorithm.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Algorithm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		65744CA61C554BA50011C977 /* Algorithm iOS Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Algorithm iOS Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65744CB81C554DDC0011C977 /* Algorithm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Algorithm.h; sourceTree = "<group>"; };
@@ -220,6 +222,7 @@
 				65744CE91C554EDA0011C977 /* SortedMultiSet.swift */,
 				65744CEA1C554EDA0011C977 /* SortedSet.swift */,
 				65744CEB1C554EDA0011C977 /* Stack.swift */,
+				59AD52A120B75A2700DFC9D8 /* SortTheStuff.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -456,6 +459,7 @@
 				65744CFA1C554EDA0011C977 /* Queue.swift in Sources */,
 				65744CEC1C554EDA0011C977 /* Algorithm+Array.swift in Sources */,
 				65744CFC1C554EDA0011C977 /* RedBlackNode.swift in Sources */,
+				59AD52A220B75A2700DFC9D8 /* SortTheStuff.swift in Sources */,
 				65744D001C554EDA0011C977 /* SortedDictionary.swift in Sources */,
 				65744CF41C554EDA0011C977 /* DoublyLinkedListNode.swift in Sources */,
 				65744CFE1C554EDA0011C977 /* RedBlackTree.swift in Sources */,
